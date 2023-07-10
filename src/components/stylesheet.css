@@ -1,0 +1,20 @@
+/* File Name: stylesheet.css
+   File Description: A few additional css (to custom bootstrap) for my components
+   Author: Erica Li
+   Date Updated: 7-06-2022
+*/
+
+.whitespace {
+	white-space: pre;
+}
+
+h1 {
+	text-align: center;
+	color: #24527a;
+	font-weight: bold;
+}
+
+.highlight {
+	color: #24527a;
+}
+
